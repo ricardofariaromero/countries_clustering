@@ -1,2 +1,2 @@
 # countries_clustering
-Countries developent clustering
+Countries development clustering
